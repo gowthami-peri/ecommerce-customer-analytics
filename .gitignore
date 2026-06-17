@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Data files
+data/raw/
+data/results/
+*.csv
+*.parquet
+*.xlsx
+
+# Notebook artifacts
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+
+# Mac
+.DS_Store
