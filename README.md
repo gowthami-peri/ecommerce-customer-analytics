@@ -6,13 +6,7 @@ The project follows a typical business analytics workflow—from data preparatio
 
 ---
 
-| Customer Segmentation | Product Portfolio |
-|:---------------------:|:-----------------:|
-| ![](images/rfm_heatmap.png) | ![](images/product_portfolio.png) |
-
-| Payment Distribution | Revenue Concentration |
-|:--------------------:|:---------------------:|
-| ![](images/payment_donut.png) | ![](images/pareto_analysis.png) |
+## Project Highlights
 
 <img width="890" height="470" alt="image" src="https://github.com/user-attachments/assets/626e432f-c906-4c09-be4c-44a8ec15d069" />
 
