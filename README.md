@@ -1,3 +1,13 @@
+# E-Commerce Customer Analytics
+
+An end-to-end customer analytics case study using the **Brazilian Olist E-Commerce Dataset**. This project demonstrates how raw transactional data can be transformed into actionable business insights through exploratory data analysis, customer segmentation, operational analysis, and revenue analytics.
+
+The project follows a typical business analytics workflow—from data preparation and cleaning to executive-level recommendations—and showcases techniques commonly used by data analysts and data scientists.
+
+---
+
+## Project Highlights
+
 <img width="890" height="470" alt="image" src="https://github.com/user-attachments/assets/626e432f-c906-4c09-be4c-44a8ec15d069" />
 
 <img width="1075" height="701" alt="image" src="https://github.com/user-attachments/assets/57bfacac-769e-4c69-8b37-fb1008d6ffae" />
@@ -6,14 +16,6 @@
 
 <img width="928" height="547" alt="image" src="https://github.com/user-attachments/assets/94c47c97-21a6-437d-a89f-3165155cabfe" />
 
-
-# E-Commerce Customer Analytics
-
-An end-to-end customer analytics case study using the **Brazilian Olist E-Commerce Dataset**. This project demonstrates how raw transactional data can be transformed into actionable business insights through exploratory data analysis, customer segmentation, operational analysis, and revenue analytics.
-
-The project follows a typical business analytics workflow—from data preparation and cleaning to executive-level recommendations—and showcases techniques commonly used by data analysts and data scientists.
-
----
 
 ## Dataset
 
