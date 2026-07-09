@@ -84,8 +84,7 @@ ecommerce-customer-analytics/
 │   └── 05_revenue_and_product_analytics.ipynb
 │
 ├── README.md
-├── .gitignore
-└── requirements.txt
+└── .gitignore
 ```
 
 ---
